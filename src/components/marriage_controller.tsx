@@ -45,7 +45,7 @@ export default function MarriageController(props: MarriageControllerProps) {
         label="Glitches"
         value={glitches}
         setValue={setGlitches}
-        options={["Vanilla", "Glitchless", "NDE", "Glitches"]}
+        options={["Glitches", "NDE", "Glitchless", "Vanilla"]}
       />
     </div>
   );

@@ -105,7 +105,7 @@ export default function MarriageTable({
   }, [glitches, roommate, seeded]);
 
   return (
-    <div className="w-full content-center">
+    <div className="w-full content-center overflow-x-scroll overflow-y-scroll">
       {loading && <ChickenSpinner />}
       <table className="leaderboard-table w-full transition-all">
         <thead className="overflow-hidden bg-slate-100 text-gray-900">
@@ -126,7 +126,7 @@ export default function MarriageTable({
               key={run.id + "-" + idx}
               onClick={() => window.open(run.weblink, "_blank")}
             >
-              <td className="left-0">{idx + 1}</td>
+              <td className="left-0 px-0.5 pl-1.5">{idx + 1}</td>
               <td className="px-0.5 text-left">
                 {structureNames(getPlayers(run, playerList))}
               </td>

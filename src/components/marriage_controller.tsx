@@ -32,7 +32,7 @@ export default function MarriageController(props: MarriageControllerProps) {
     }
   };
   return (
-    <div className="flex w-full flex-row content-center bg-gray-300  px-2 py-2">
+    <div className="sticky top-0 flex w-full flex-col content-center  bg-gray-300 px-2 py-2 md:flex-row">
       <div className="pr-2">
         <Dropdown
           label="Roommate"

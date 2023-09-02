@@ -1,0 +1,16 @@
+{
+  "name_map": {
+    "Community Center": "81pw4d8l",
+    "Joja": "gq7e9rd1",
+    "The Missing Bundle": "xqkk9mkq",
+    "Joja Movie Theater": "21gre28q"
+  },
+  "id_map": {
+    "81pw4d8l": "Community Center",
+    "gq7e9rd1": "Joja",
+    "xqkk9mkq": "The Missing Bundle",
+    "21gre28q": "Joja Movie Theater"
+  },
+  "variable_id": "wledk6xn",
+  "variable_name": "Subcategory"
+}

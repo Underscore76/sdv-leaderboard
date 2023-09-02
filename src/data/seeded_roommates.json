@@ -1,0 +1,36 @@
+{
+  "name_map": {
+    "Alex": "81484evl",
+    "Elliot": "z196dg81",
+    "Harvey": "p12r4e4l",
+    "Sam": "81pv6w81",
+    "Sebastian": "xqk26kkq",
+    "Shane": "gq70zedl",
+    "Abigail": "21gvor81",
+    "Emily": "klrv6wmq",
+    "Haley": "gq70zepl",
+    "Leah": "jqz8y72q",
+    "Maru": "klrv6woq",
+    "Penny": "21d9o7pq",
+    "Player": "5q8jr7yl",
+    "Krobus": "4qyd8e6q"
+  },
+  "id_map": {
+    "81484evl": "Alex",
+    "z196dg81": "Elliot",
+    "p12r4e4l": "Harvey",
+    "81pv6w81": "Sam",
+    "xqk26kkq": "Sebastian",
+    "gq70zedl": "Shane",
+    "21gvor81": "Abigail",
+    "klrv6wmq": "Emily",
+    "gq70zepl": "Haley",
+    "jqz8y72q": "Leah",
+    "klrv6woq": "Maru",
+    "21d9o7pq": "Penny",
+    "5q8jr7yl": "Player",
+    "4qyd8e6q": "Krobus"
+  },
+  "variable_id": "r8r7170n",
+  "variable_name": "Roommate"
+}

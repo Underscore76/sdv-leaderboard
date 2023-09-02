@@ -1,0 +1,12 @@
+{
+  "name_map": {
+    "Singleplayer": "81wddxmq",
+    "Multiplayer": "gq7or4pl"
+  },
+  "id_map": {
+    "81wddxmq": "Singleplayer",
+    "gq7or4pl": "Multiplayer"
+  },
+  "variable_id": "ylpm7y6l",
+  "variable_name": "Coop"
+}

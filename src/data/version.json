@@ -1,0 +1,20 @@
+{
+  "name_map": {
+    "1.5x": "5lererzq",
+    "1.4x": "xqk68991",
+    "1.3x": "xqkzpo4q",
+    "1.2x": "jq6vw3v1",
+    "1.1x": "013yprl5",
+    "1.0x": "81wk9m14"
+  },
+  "id_map": {
+    "5lererzq": "1.5x",
+    "xqk68991": "1.4x",
+    "xqkzpo4q": "1.3x",
+    "jq6vw3v1": "1.2x",
+    "013yprl5": "1.1x",
+    "81wk9m14": "1.0x"
+  },
+  "variable_id": "r8reo7le",
+  "variable_name": "Version"
+}

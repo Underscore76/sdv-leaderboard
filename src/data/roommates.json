@@ -1,0 +1,40 @@
+{
+  "name_map": {
+    "Alex": "4qykk417",
+    "Elliot": "013zzdq5",
+    "Harvey": "rqvjj7q6",
+    "Sam": "5lepp51o",
+    "Sebastian": "0q5ddmlp",
+    "Shane": "mln8wn0l",
+    "Abigail": "4lxmm2q2",
+    "Emily": "810vz8wl",
+    "Haley": "814rr0qd",
+    "Leah": "z1900014",
+    "Maru": "p12gg7qx",
+    "Penny": "81prrgq7",
+    "Player": "814vypk1",
+    "Krobus": "5q8rorg1",
+    "Multiple Villagers": "1pyem081",
+    "All": "All"
+  },
+  "id_map": {
+    "4qykk417": "Alex",
+    "013zzdq5": "Elliot",
+    "rqvjj7q6": "Harvey",
+    "5lepp51o": "Sam",
+    "0q5ddmlp": "Sebastian",
+    "mln8wn0l": "Shane",
+    "4lxmm2q2": "Abigail",
+    "810vz8wl": "Emily",
+    "814rr0qd": "Haley",
+    "z1900014": "Leah",
+    "p12gg7qx": "Maru",
+    "81prrgq7": "Penny",
+    "814vypk1": "Player",
+    "5q8rorg1": "Krobus",
+    "1pyem081": "MultipleVillagers",
+    "All": "All"
+  },
+  "variable_id": "kn00edn3",
+  "variable_name": "Roommate"
+}

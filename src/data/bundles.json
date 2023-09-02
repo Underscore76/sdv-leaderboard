@@ -1,0 +1,20 @@
+{
+  "name_map": {
+    "Crafts Room": "81022wqv",
+    "Pantry": "9qjppeq4",
+    "Fish Tank": "jq6883lm",
+    "Bulletin Board": "5lm77jlv",
+    "Boiler Room": "81w66ol4",
+    "Vault": "zqozzply"
+  },
+  "id_map": {
+    "81022wqv": "Crafts Room",
+    "9qjppeq4": "Pantry",
+    "jq6883lm": "Fish Tank",
+    "5lm77jlv": "Bulletin Board",
+    "81w66ol4": "Boiler Room",
+    "zqozzply": "Vault"
+  },
+  "variable_id": "onv4xrnm",
+  "variable_name": "Bundles"
+}

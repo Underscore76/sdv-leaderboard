@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    table tbody tr td {
+        height: 2.25rem;
+    }
+    table tbody tr>a, table tbody tr td>a {
+        width: 100%;
+        height: 100%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@layer utilities {
+    .name-gradient {
+        --name-gradient-from: var(--name-gradient-from,var(--tw-gradient-from));
+        --name-gradient-to: var(--name-gradient-to,var(--tw-gradient-to));
+        background-image: linear-gradient(to right,var(--name-gradient-from),var(--name-gradient-to),var(--name-gradient-from),var(--name-gradient-to));
+        background-clip: text;
+        color: transparent;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-size: 300%;
+    }
+  }

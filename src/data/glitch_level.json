@@ -1,0 +1,16 @@
+{
+  "name_map": {
+    "Glitches": "21dvdzg1",
+    "NDE": "0132ngkq",
+    "Glitchless": "5q82z66q",
+    "Vanilla": "p12ym22q"
+  },
+  "id_map": {
+    "21dvdzg1": "Glitches",
+    "0132ngkq": "NDE",
+    "5q82z66q": "Glitchless",
+    "p12ym22q": "Vanilla"
+  },
+  "variable_id": "onvey5lm",
+  "variable_name": "Glitches"
+}

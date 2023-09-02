@@ -1,0 +1,529 @@
+{
+    "zdn81wed": {
+        "id": "zdn81wed",
+        "name": "Restoration",
+        "leaderboard_uri": "https://www.speedrun.com/api/v1/leaderboards/9d3q7e1l/category/zdn81wed",
+        "variables": {
+            "wledk6xn": {
+                "id": "wledk6xn",
+                "name": "Subcategory",
+                "values": {
+                    "81pw4d8l": "Community Center",
+                    "gq7e9rd1": "Joja",
+                    "xqkk9mkq": "The Missing Bundle",
+                    "21gre28q": "Joja Movie Theater"
+                }
+            },
+            "r8reo7le": {
+                "id": "r8reo7le",
+                "name": "Version",
+                "values": {
+                    "5lererzq": "1.5x",
+                    "xqk68991": "1.4x",
+                    "xqkzpo4q": "1.3x",
+                    "jq6vw3v1": "1.2x",
+                    "013yprl5": "1.1x",
+                    "81wk9m14": "1.0x"
+                }
+            },
+            "ylpm7y6l": {
+                "id": "ylpm7y6l",
+                "name": "Coop",
+                "values": {
+                    "81wddxmq": "Singleplayer",
+                    "gq7or4pl": "Multiplayer"
+                }
+            },
+            "ylpm4jrl": {
+                "id": "ylpm4jrl",
+                "name": "Animation Canceling",
+                "values": {
+                    "4qy8mk21": "No",
+                    "5q8r3n31": "Yes"
+                }
+            },
+            "onvey5lm": {
+                "id": "onvey5lm",
+                "name": "Glitches",
+                "values": {
+                    "21dvdzg1": "Glitches",
+                    "0132ngkq": "NDE",
+                    "5q82z66q": "Glitchless",
+                    "p12ym22q": "Vanilla"
+                }
+            },
+            "j845e52n": {
+                "id": "j845e52n",
+                "name": "Remixed Mines",
+                "values": {
+                    "9qjvej3q": "No",
+                    "jq6ng3jl": "Yes"
+                }
+            }
+        }
+    },
+    "xd1r0v4k": {
+        "id": "xd1r0v4k",
+        "name": "Bundles",
+        "leaderboard_uri": "https://www.speedrun.com/api/v1/leaderboards/9d3q7e1l/category/xd1r0v4k",
+        "variables": {
+            "onv4xrnm": {
+                "id": "onv4xrnm",
+                "name": "Bundles",
+                "values": {
+                    "81022wqv": "Crafts Room",
+                    "9qjppeq4": "Pantry",
+                    "jq6883lm": "Fish Tank",
+                    "5lm77jlv": "Bulletin Board",
+                    "81w66ol4": "Boiler Room",
+                    "zqozzply": "Vault"
+                }
+            },
+            "r8reo7le": {
+                "id": "r8reo7le",
+                "name": "Version",
+                "values": {
+                    "5lererzq": "1.5x",
+                    "xqk68991": "1.4x",
+                    "xqkzpo4q": "1.3x",
+                    "jq6vw3v1": "1.2x",
+                    "013yprl5": "1.1x",
+                    "81wk9m14": "1.0x"
+                }
+            },
+            "ylpm7y6l": {
+                "id": "ylpm7y6l",
+                "name": "Coop",
+                "values": {
+                    "81wddxmq": "Singleplayer",
+                    "gq7or4pl": "Multiplayer"
+                }
+            },
+            "ylpm4jrl": {
+                "id": "ylpm4jrl",
+                "name": "Animation Canceling",
+                "values": {
+                    "4qy8mk21": "No",
+                    "5q8r3n31": "Yes"
+                }
+            },
+            "onvey5lm": {
+                "id": "onvey5lm",
+                "name": "Glitches",
+                "values": {
+                    "21dvdzg1": "Glitches",
+                    "0132ngkq": "NDE",
+                    "5q82z66q": "Glitchless",
+                    "p12ym22q": "Vanilla"
+                }
+            },
+            "j845e52n": {
+                "id": "j845e52n",
+                "name": "Remixed Mines",
+                "values": {
+                    "9qjvej3q": "No",
+                    "jq6ng3jl": "Yes"
+                }
+            }
+        }
+    },
+    "n2yqw78k": {
+        "id": "n2yqw78k",
+        "name": "Marriage",
+        "leaderboard_uri": "https://www.speedrun.com/api/v1/leaderboards/9d3q7e1l/category/n2yqw78k",
+        "variables": {
+            "kn00edn3": {
+                "id": "kn00edn3",
+                "name": "Roommate",
+                "values": {
+                    "4qykk417": "Alex",
+                    "013zzdq5": "Elliot",
+                    "rqvjj7q6": "Harvey",
+                    "5lepp51o": "Sam",
+                    "0q5ddmlp": "Sebastian",
+                    "mln8wn0l": "Shane",
+                    "4lxmm2q2": "Abigail",
+                    "810vz8wl": "Emily",
+                    "814rr0qd": "Haley",
+                    "z1900014": "Leah",
+                    "p12gg7qx": "Maru",
+                    "81prrgq7": "Penny",
+                    "814vypk1": "Player",
+                    "5q8rorg1": "Krobus",
+                    "1pyem081": "Multiple Villagers",
+                    "all": "All"
+                }
+            },
+            "r8reo7le": {
+                "id": "r8reo7le",
+                "name": "Version",
+                "values": {
+                    "5lererzq": "1.5x",
+                    "xqk68991": "1.4x",
+                    "xqkzpo4q": "1.3x",
+                    "jq6vw3v1": "1.2x",
+                    "013yprl5": "1.1x",
+                    "81wk9m14": "1.0x"
+                }
+            },
+            "ylpm7y6l": {
+                "id": "ylpm7y6l",
+                "name": "Coop",
+                "values": {
+                    "81wddxmq": "Singleplayer",
+                    "gq7or4pl": "Multiplayer"
+                }
+            },
+            "ylpm4jrl": {
+                "id": "ylpm4jrl",
+                "name": "Animation Canceling",
+                "values": {
+                    "4qy8mk21": "No",
+                    "5q8r3n31": "Yes"
+                }
+            },
+            "onvey5lm": {
+                "id": "onvey5lm",
+                "name": "Glitches",
+                "values": {
+                    "21dvdzg1": "Glitches",
+                    "0132ngkq": "NDE",
+                    "5q82z66q": "Glitchless",
+                    "p12ym22q": "Vanilla"
+                }
+            },
+            "j845e52n": {
+                "id": "j845e52n",
+                "name": "Remixed Mines",
+                "values": {
+                    "9qjvej3q": "No",
+                    "jq6ng3jl": "Yes"
+                }
+            }
+        }
+    },
+    "ndxjgy12": {
+        "id": "ndxjgy12",
+        "name": "Mines",
+        "leaderboard_uri": "https://www.speedrun.com/api/v1/leaderboards/9d3q7e1l/category/ndxjgy12",
+        "variables": {
+            "r8reo7le": {
+                "id": "r8reo7le",
+                "name": "Version",
+                "values": {
+                    "5lererzq": "1.5x",
+                    "xqk68991": "1.4x",
+                    "xqkzpo4q": "1.3x",
+                    "jq6vw3v1": "1.2x",
+                    "013yprl5": "1.1x",
+                    "81wk9m14": "1.0x"
+                }
+            },
+            "dlo9melo": {
+                "id": "dlo9melo",
+                "name": "Mines",
+                "values": {
+                    "5lm9v81v": "Level 50",
+                    "81wkzm14": "Level 120"
+                }
+            },
+            "ylpm7y6l": {
+                "id": "ylpm7y6l",
+                "name": "Coop",
+                "values": {
+                    "81wddxmq": "Singleplayer",
+                    "gq7or4pl": "Multiplayer"
+                }
+            },
+            "ylpm4jrl": {
+                "id": "ylpm4jrl",
+                "name": "Animation Canceling",
+                "values": {
+                    "4qy8mk21": "No",
+                    "5q8r3n31": "Yes"
+                }
+            },
+            "onvey5lm": {
+                "id": "onvey5lm",
+                "name": "Glitches",
+                "values": {
+                    "21dvdzg1": "Glitches",
+                    "0132ngkq": "NDE",
+                    "5q82z66q": "Glitchless",
+                    "p12ym22q": "Vanilla"
+                }
+            },
+            "j845e52n": {
+                "id": "j845e52n",
+                "name": "Remixed Mines",
+                "values": {
+                    "9qjvej3q": "No",
+                    "jq6ng3jl": "Yes"
+                }
+            }
+        }
+    },
+    "02qm1g9d": {
+        "id": "02qm1g9d",
+        "name": "Seeded Restoration",
+        "leaderboard_uri": "https://www.speedrun.com/api/v1/leaderboards/9d3q7e1l/category/02qm1g9d",
+        "variables": {
+            "38dpzp08": {
+                "id": "38dpzp08",
+                "name": "Subcategory",
+                "values": {
+                    "rqvgzw6q": "Community Center",
+                    "0q5y7e2l": "Joja",
+                    "5le9vgkq": "The Missing Bundle",
+                    "4lxrdw4l": "Joja Movie Theater"
+                }
+            },
+            "r8reo7le": {
+                "id": "r8reo7le",
+                "name": "Version",
+                "values": {
+                    "5lererzq": "1.5x",
+                    "xqk68991": "1.4x",
+                    "xqkzpo4q": "1.3x",
+                    "jq6vw3v1": "1.2x",
+                    "013yprl5": "1.1x",
+                    "81wk9m14": "1.0x"
+                }
+            },
+            "ylpm7y6l": {
+                "id": "ylpm7y6l",
+                "name": "Coop",
+                "values": {
+                    "81wddxmq": "Singleplayer",
+                    "gq7or4pl": "Multiplayer"
+                }
+            },
+            "ylpm4jrl": {
+                "id": "ylpm4jrl",
+                "name": "Animation Canceling",
+                "values": {
+                    "4qy8mk21": "No",
+                    "5q8r3n31": "Yes"
+                }
+            },
+            "onvey5lm": {
+                "id": "onvey5lm",
+                "name": "Glitches",
+                "values": {
+                    "21dvdzg1": "Glitches",
+                    "0132ngkq": "NDE",
+                    "5q82z66q": "Glitchless",
+                    "p12ym22q": "Vanilla"
+                }
+            },
+            "j845e52n": {
+                "id": "j845e52n",
+                "name": "Remixed Mines",
+                "values": {
+                    "9qjvej3q": "No",
+                    "jq6ng3jl": "Yes"
+                }
+            }
+        }
+    },
+    "824jvxn2": {
+        "id": "824jvxn2",
+        "name": "Seeded Bundles",
+        "leaderboard_uri": "https://www.speedrun.com/api/v1/leaderboards/9d3q7e1l/category/824jvxn2",
+        "variables": {
+            "r8reo7le": {
+                "id": "r8reo7le",
+                "name": "Version",
+                "values": {
+                    "5lererzq": "1.5x",
+                    "xqk68991": "1.4x",
+                    "xqkzpo4q": "1.3x",
+                    "jq6vw3v1": "1.2x",
+                    "013yprl5": "1.1x",
+                    "81wk9m14": "1.0x"
+                }
+            },
+            "ylq6m6w8": {
+                "id": "ylq6m6w8",
+                "name": "Seeded Bundles",
+                "values": {
+                    "mlnpk6o1": "Crafts Room",
+                    "810g9jol": "Pantry",
+                    "9qjven7q": "Fish Tank",
+                    "jq6ngrvl": "Bulletin Board",
+                    "5lmvw68l": "Boiler Room",
+                    "81wzrom1": "Vault"
+                }
+            },
+            "ylpm7y6l": {
+                "id": "ylpm7y6l",
+                "name": "Coop",
+                "values": {
+                    "81wddxmq": "Singleplayer",
+                    "gq7or4pl": "Multiplayer"
+                }
+            },
+            "ylpm4jrl": {
+                "id": "ylpm4jrl",
+                "name": "Animation Canceling",
+                "values": {
+                    "4qy8mk21": "No",
+                    "5q8r3n31": "Yes"
+                }
+            },
+            "onvey5lm": {
+                "id": "onvey5lm",
+                "name": "Glitches",
+                "values": {
+                    "21dvdzg1": "Glitches",
+                    "0132ngkq": "NDE",
+                    "5q82z66q": "Glitchless",
+                    "p12ym22q": "Vanilla"
+                }
+            },
+            "j845e52n": {
+                "id": "j845e52n",
+                "name": "Remixed Mines",
+                "values": {
+                    "9qjvej3q": "No",
+                    "jq6ng3jl": "Yes"
+                }
+            }
+        }
+    },
+    "9d8empld": {
+        "id": "9d8empld",
+        "name": "Seeded Marriage",
+        "leaderboard_uri": "https://www.speedrun.com/api/v1/leaderboards/9d3q7e1l/category/9d8empld",
+        "variables": {
+            "r8reo7le": {
+                "id": "r8reo7le",
+                "name": "Version",
+                "values": {
+                    "5lererzq": "1.5x",
+                    "xqk68991": "1.4x",
+                    "xqkzpo4q": "1.3x",
+                    "jq6vw3v1": "1.2x",
+                    "013yprl5": "1.1x",
+                    "81wk9m14": "1.0x"
+                }
+            },
+            "r8r7170n": {
+                "id": "r8r7170n",
+                "name": "Roommate",
+                "values": {
+                    "81484evl": "Alex",
+                    "z196dg81": "Elliot",
+                    "p12r4e4l": "Harvey",
+                    "81pv6w81": "Sam",
+                    "xqk26kkq": "Sebastian",
+                    "gq70zedl": "Shane",
+                    "21gvor81": "Abigail",
+                    "klrv6wmq": "Emily",
+                    "gq70zepl": "Haley",
+                    "jqz8y72q": "Leah",
+                    "klrv6woq": "Maru",
+                    "21d9o7pq": "Penny",
+                    "5q8jr7yl": "Player",
+                    "4qyd8e6q": "Krobus"
+                },
+                "all": "All"
+            },
+            "ylpm7y6l": {
+                "id": "ylpm7y6l",
+                "name": "Coop",
+                "values": {
+                    "81wddxmq": "Singleplayer",
+                    "gq7or4pl": "Multiplayer"
+                }
+            },
+            "ylpm4jrl": {
+                "id": "ylpm4jrl",
+                "name": "Animation Canceling",
+                "values": {
+                    "4qy8mk21": "No",
+                    "5q8r3n31": "Yes"
+                }
+            },
+            "onvey5lm": {
+                "id": "onvey5lm",
+                "name": "Glitches",
+                "values": {
+                    "21dvdzg1": "Glitches",
+                    "0132ngkq": "NDE",
+                    "5q82z66q": "Glitchless",
+                    "p12ym22q": "Vanilla"
+                }
+            },
+            "j845e52n": {
+                "id": "j845e52n",
+                "name": "Remixed Mines",
+                "values": {
+                    "9qjvej3q": "No",
+                    "jq6ng3jl": "Yes"
+                }
+            }
+        }
+    },
+    "xd148rwd": {
+        "id": "xd148rwd",
+        "name": "Seeded Mines",
+        "leaderboard_uri": "https://www.speedrun.com/api/v1/leaderboards/9d3q7e1l/category/xd148rwd",
+        "variables": {
+            "r8reo7le": {
+                "id": "r8reo7le",
+                "name": "Version",
+                "values": {
+                    "5lererzq": "1.5x",
+                    "xqk68991": "1.4x",
+                    "xqkzpo4q": "1.3x",
+                    "jq6vw3v1": "1.2x",
+                    "013yprl5": "1.1x",
+                    "81wk9m14": "1.0x"
+                }
+            },
+            "gnxjvjxl": {
+                "id": "gnxjvjxl",
+                "name": "Seeded Mines",
+                "values": {
+                    "zqok2o5l": "Level 50",
+                    "013d47rl": "Level 120"
+                }
+            },
+            "ylpm7y6l": {
+                "id": "ylpm7y6l",
+                "name": "Coop",
+                "values": {
+                    "81wddxmq": "Singleplayer",
+                    "gq7or4pl": "Multiplayer"
+                }
+            },
+            "ylpm4jrl": {
+                "id": "ylpm4jrl",
+                "name": "Animation Canceling",
+                "values": {
+                    "4qy8mk21": "No",
+                    "5q8r3n31": "Yes"
+                }
+            },
+            "onvey5lm": {
+                "id": "onvey5lm",
+                "name": "Glitches",
+                "values": {
+                    "21dvdzg1": "Glitches",
+                    "0132ngkq": "NDE",
+                    "5q82z66q": "Glitchless",
+                    "p12ym22q": "Vanilla"
+                }
+            },
+            "j845e52n": {
+                "id": "j845e52n",
+                "name": "Remixed Mines",
+                "values": {
+                    "9qjvej3q": "No",
+                    "jq6ng3jl": "Yes"
+                }
+            }
+        }
+    }
+}

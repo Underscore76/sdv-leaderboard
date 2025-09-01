@@ -1,5 +1,6 @@
 {
   "name_map": {
+    "1.6x": "qox5r5pq",
     "1.5x": "5lererzq",
     "1.4x": "xqk68991",
     "1.3x": "xqkzpo4q",
@@ -8,6 +9,7 @@
     "1.0x": "81wk9m14"
   },
   "id_map": {
+    "qox5r5pq": "1.6x",
     "5lererzq": "1.5x",
     "xqk68991": "1.4x",
     "xqkzpo4q": "1.3x",

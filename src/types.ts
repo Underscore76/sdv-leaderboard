@@ -1,5 +1,3 @@
-
-
 export type Player = {
   rel: string;
   id: string;
@@ -41,25 +39,25 @@ export type Player = {
   };
   twitch: {
     uri: string;
-  }|null;
+  } | null;
   hitbox: any;
   youtube: {
     uri: string;
-  }|null;
+  } | null;
   twitter: any;
   speedrunslive: any;
   assets: any;
   links: any;
-}
+};
 
 export type Run = {
   id: string;
   weblink: string;
   game: string;
-  level?: string|null;
+  level?: string | null;
   category: string;
   comment: string;
-  players: {[key: string]:string}[],
+  players: { [key: string]: string }[];
   date: string;
   submitted: string;
   times: {
@@ -67,19 +65,19 @@ export type Run = {
     primary_t: number;
     realtime: string;
     realtime_t: number;
-    realtime_noloads: string|null;
+    realtime_noloads: string | null;
     realtime_noloads_t: number;
-    ingame: string|null;
+    ingame: string | null;
     ingame_t: number;
-  },
+  };
   system: {
     platform: string;
     emulated: boolean;
-    region: string|null;
-  },
+    region: string | null;
+  };
   splits: any;
-  values: {[key: string]:string};
-}
+  values: { [key: string]: string };
+};
 
 export type Variable = {
   id: string;
@@ -94,37 +92,33 @@ export type Category = {
   leaderboard_uri: string;
 };
 
-export type GlitchLevel = 
-  "Glitches"|
-  "NDE"|
-  "Glitchless"|
-  "Vanilla"
+export type GlitchLevel = "Glitches" | "NDE" | "Glitchless" | "Vanilla";
 
-export type Roommate = 
-  "Alex" | 
-  "Elliot"|
-  "Harvey"| 
-  "Sam"|
-  "Sebastian"|
-  "Shane"|
-  "Abigail"|
-  "Emily"|
-  "Haley"| 
-  "Leah"|
-  "Maru"| 
-  "Penny"|
-  "Player"|
-  "Krobus"| 
-  "Multiple Villagers"|
-  "All"
+export type Roommate =
+  | "Alex"
+  | "Elliott"
+  | "Harvey"
+  | "Sam"
+  | "Sebastian"
+  | "Shane"
+  | "Abigail"
+  | "Emily"
+  | "Haley"
+  | "Leah"
+  | "Maru"
+  | "Penny"
+  | "Player"
+  | "Krobus"
+  | "Multiple Villagers"
+  | "All";
 
-export const RoomateOptions  =  [
+export const RoomateOptions = [
   "All",
   "Multiple Villagers",
   "Player",
   "Abigail",
   "Alex",
-  "Elliot",
+  "Elliott",
   "Emily",
   "Haley",
   "Harvey",
@@ -135,4 +129,4 @@ export const RoomateOptions  =  [
   "Sam",
   "Sebastian",
   "Shane",
-] as string[]
+] as string[];
